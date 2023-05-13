@@ -10,7 +10,7 @@
   width: 100%;
 }
 .card-img {
-  width: 50%;
+  width: 500px;
 }
 
 body {
@@ -69,7 +69,7 @@ body {
     color: black;
   }
   footer {
-    background-color: #ffe9ce;
+    background-color: #3777ff;
     color: black;
   }
   footer p {
