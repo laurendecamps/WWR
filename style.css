@@ -9,8 +9,8 @@
 #hero-img {
   width: 100%;
 }
-#card-img {
-  width: 50%;
+.card-img {
+  width: 200px;
 }
 
 body {
