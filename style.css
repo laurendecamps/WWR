@@ -18,8 +18,9 @@
   width: 100%;
 }
 .card-img {
-  width: 50%
+  width: 50p%
   border: 10px solid #3777ff;
+  display: block
 }
 
 body {
