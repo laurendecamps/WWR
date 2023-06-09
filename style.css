@@ -20,7 +20,6 @@
   width: 100%;
 }
 .card-img {
-  width: 500px;
   border: 10px solid #3777ff;
   transition: transform .5s;
   box-shadow: 5px 5px 10px #2653b2;
