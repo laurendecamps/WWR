@@ -16,6 +16,9 @@
   width: 80px;
   padding-top: 10px;
 }
+.header {
+  width: 100%
+}
 #hero-img {
   width: 100%;
 }
